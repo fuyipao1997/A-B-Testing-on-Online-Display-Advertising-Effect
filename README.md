@@ -1,0 +1,2 @@
+# A-B-Testing-on-Online-Display-Advertising-Effect
+Lee Hower, a retail company, faces the challenge of measuring the impact of online advertising on in-store sales. To address this, a million users were randomly assigned to a "treatment" or "control" group in a two-week online ad campaign, which aimed to bridge the gap between online exposure and purchases. The project's focus was to optimize the effect size and ad spend per customer while considering factors like budget constraints, ghost ads, and ad fatigue to ensure statistical power while maintaining efficiency.
